@@ -1,0 +1,22 @@
+[ 2016-10-29T21:10:17+08:00 ] 127.0.0.1 /XFFshop/Admin/Goods/update/18
+ERR: 参数错误或者未定义:id
+
+[ 2016-10-29T21:25:14+08:00 ] 127.0.0.1 /XFFshop/Admin/Goods/delete/goods_id/goodsList
+ERR: 1054:Unknown column 'goodsList' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `sw_goods` WHERE ( goodsList )
+
+[ 2016-10-29T21:35:33+08:00 ] 127.0.0.1 /XFFshop/Admin/Goods/delete/goods_id/24
+ERR: 1054:Unknown column 'goods_id24' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `sw_goods` WHERE ( goods_id24 )
+
+[ 2016-10-29T21:35:49+08:00 ] 127.0.0.1 /XFFshop/Admin/Goods/delete/goods_id/goodsList
+ERR: 1054:Unknown column 'goodsList' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `sw_goods` WHERE ( goods_id=goodsList )
+
+[ 2016-10-29T21:36:43+08:00 ] 127.0.0.1 /XFFshop/Admin/Goods/delete/goods_id/goodsList
+ERR: 1054:Unknown column 'goodsList' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `sw_goods` WHERE ( goods_id=goodsList )
+
+[ 2016-10-29T21:38:01+08:00 ] 127.0.0.1 /XFFshop/Admin/__CONTROLLER__/goodsList.html
+ERR: 非法操作:goodsList
+

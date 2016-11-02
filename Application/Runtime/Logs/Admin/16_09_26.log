@@ -1,0 +1,21 @@
+[ 2016-09-26T20:23:44+08:00 ] 127.0.0.1 /XFFshop/Admin/Index/index
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-26T20:24:46+08:00 ] 127.0.0.1 /XFFshop/Admin/Index
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-26T20:24:50+08:00 ] 127.0.0.1 /XFFshop/Admin
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2016-09-26T21:31:21+08:00 ] 127.0.0.1 /XFFshop/Admin/common/function.php
+ERR: 无法加载控制器:Common
+
+[ 2016-09-26T21:31:46+08:00 ] 127.0.0.1 /XFFshop/Admin/common/function.php
+ERR: 无法加载控制器:Common
+
+[ 2016-09-26T21:31:46+08:00 ] 127.0.0.1 /XFFshop/Admin/common/function.php
+ERR: 无法加载控制器:Common
+
+[ 2016-09-26T21:31:47+08:00 ] 127.0.0.1 /XFFshop/Admin/common/function.php
+ERR: 无法加载控制器:Common
+

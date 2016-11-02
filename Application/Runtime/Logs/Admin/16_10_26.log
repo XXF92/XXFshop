@@ -1,0 +1,21 @@
+[ 2016-10-26T14:42:08+08:00 ] 127.0.0.1 /XFFshop/
+ERR: syntax error, unexpected '" name="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-10-26T14:42:08+08:00 ] 127.0.0.1 /XFFshop/
+ERR: syntax error, unexpected '" name="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-10-26T14:42:09+08:00 ] 127.0.0.1 /XFFshop/
+ERR: syntax error, unexpected '" name="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-10-26T14:42:09+08:00 ] 127.0.0.1 /XFFshop/
+ERR: syntax error, unexpected '" name="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-10-26T14:42:10+08:00 ] 127.0.0.1 /XFFshop/
+ERR: syntax error, unexpected '" name="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-10-26T14:58:06+08:00 ] 127.0.0.1 /XFFshop/Admin/css/style.css
+ERR: 非法操作:style.css
+
+[ 2016-10-26T14:58:07+08:00 ] 127.0.0.1 /XFFshop/Admin/js/jquery.js
+ERR: 非法操作:jquery.js
+

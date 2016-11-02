@@ -1,0 +1,15 @@
+[ 2016-09-27T09:37:33+08:00 ] 127.0.0.1 /XFFshop/bjoe
+ERR: 无法加载模块:Bjoe
+
+[ 2016-09-27T09:45:55+08:00 ] 127.0.0.1 /XFFshop/fjei
+ERR: 无法加载模块:Fjei
+
+[ 2016-09-27T09:46:04+08:00 ] 127.0.0.1 /XFFshop/Index/jfioe
+ERR: 无法加载模块:Index
+
+[ 2016-09-27T16:19:14+08:00 ] 127.0.0.1 /XFFshop/Public/Admin/img/loading.gif
+ERR: 无法加载模块:Public
+
+[ 2016-09-27T16:19:17+08:00 ] 127.0.0.1 /XFFshop/Public/Admin/img/loading.gif
+ERR: 无法加载模块:Public
+

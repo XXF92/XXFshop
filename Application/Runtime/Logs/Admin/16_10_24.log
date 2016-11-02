@@ -1,0 +1,28 @@
+[ 2016-10-24T11:20:01+08:00 ] 127.0.0.1 /XFFshop/Admin/Index/checkCode
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-24T11:20:47+08:00 ] 127.0.0.1 /XFFshop/Admin/Index/checkCode
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-24T11:20:48+08:00 ] 127.0.0.1 /XFFshop/Admin/Index/confirm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sw_admin` [ RunTime:0.0410s ]
+
+[ 2016-10-24T11:20:55+08:00 ] 127.0.0.1 /XFFshop/Admin/Index/confirm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `sw_admin` [ RunTime:0.0110s ]
+
+[ 2016-10-24T11:20:57+08:00 ] 127.0.0.1 /XFFshop/Admin/Index/confirm
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sw_admin` [ RunTime:0.0050s ]
+

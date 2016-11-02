@@ -1,0 +1,15 @@
+[ 2016-10-25T16:14:35+08:00 ] 127.0.0.1 /XFFshop/Admin/indx/test
+ERR: 非法操作:test
+
+[ 2016-10-25T16:14:42+08:00 ] 127.0.0.1 /XFFshop/Admin/indx/login
+ERR: 非法操作:login
+
+[ 2016-10-25T16:21:03+08:00 ] 127.0.0.1 /XFFshop/Admin/indx/DJGOI
+ERR: 非法操作:DJGOI
+
+[ 2016-10-25T16:21:12+08:00 ] 127.0.0.1 /XFFshop/Admin/indEx/DJGOI
+ERR: 非法操作:DJGOI
+
+[ 2016-10-25T16:22:06+08:00 ] 127.0.0.1 /XFFshop/Admin/inex/DJGOI
+ERR: 非法操作:DJGOI
+
